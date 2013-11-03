@@ -132,6 +132,8 @@ h1 {
 .role {
 	z-index: 2;
 	width: -webkit-fit-content;
+	width: -moz-fit-content;
+	width: fit-content;
 	height: 2.35em;
 	border-radius: 7px;
 	text-align: center;
